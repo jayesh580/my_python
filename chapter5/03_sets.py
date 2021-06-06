@@ -1,0 +1,15 @@
+#set1={1,2,3,4,5}
+#print(type(set1))
+
+a=set()
+#print(type(a))
+a.add(5)
+a.add(4)
+a.add(7)
+a.add(9)
+a.add(3)
+#print(len(a))
+#a.remove(5)
+#a.pop()
+#a.clear()
+print(a)

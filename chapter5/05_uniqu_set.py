@@ -1,0 +1,21 @@
+a = int(input("Enter number 1:\t"))
+b = int(input("Enter number 2:\t"))
+c = int(input("Enter number 3:\t"))
+d = int(input("Enter number 4:\t"))
+e = int(input("Enter number 5:\t"))
+f = int(input("Enter number 6:\t"))
+g = int(input("Enter number 7:\t"))
+h = int(input("Enter number 8:\t"))
+
+set1 =set()
+set1.add(a)
+set1.add(b)
+set1.add(c)
+set1.add(d)
+set1.add(e)
+set1.add(f)
+set1.add(g)
+set1.add(h)
+
+#set1 = {a,b,c,d,e,f,g,h}
+print(set1)
